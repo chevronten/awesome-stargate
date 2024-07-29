@@ -19,7 +19,7 @@ The Stargate Universe is great. There are various projects and websites on the i
 
 ## Wiki
 * [Stargate Wiki](https://stargate.fandom.com) :uk:
-* [German Stargate Wiki](https://stargate-wiki.de) :de:
+* [Stargate Wiki](https://stargate-wiki.de) :de:
 
 ## Websites
 * [Gateworld](https://gateworld.net) :uk:
