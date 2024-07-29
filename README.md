@@ -1,5 +1,5 @@
 # Awesome Stargate
-The Stargate Universe is great. There are various projects and websites on the Internet that celebrate this. Here is a partial collection of them. Pull requests are welcome.
+The Stargate Universe is great. There are various projects and websites on the internet that celebrate this. Here is a partial collection of them. Pull requests are welcome.
 
 
 ## Fansites
