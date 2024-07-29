@@ -4,7 +4,7 @@ The Stargate Universe is great. There are various projects and websites on the I
 
 ## Fansites
 * [Amanda Tapping Fans](https://www.amandatappingfans.net/) :uk:
-* [Richard Dean Anderson Website](https://rdanderson.com/index.htm] :uk:
+* [Richard Dean Anderson Website](https://rdanderson.com/index.htm) :uk:
 * [Selmak.org](https://selmak.org) :uk:
 
 
