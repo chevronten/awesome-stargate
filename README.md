@@ -12,6 +12,7 @@ The Stargate Universe is great. There are various projects and websites on the i
   
 ## Podcasts
 * [Chevron 10](https://chevron10.de) :de:
+* [Dial the Gate](https://www.dialthegate.com/) :uk:
 * [Get Into Gate](http://www.patreon.com/getintogate) :uk:
 * [Secrets of Stargate](https://sqpn.com/category/podcasts/stargate/) :uk:
 * [STERNENTOR](https://sternentor.podigee.io/) :de:
