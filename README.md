@@ -33,6 +33,7 @@ The Stargate Universe is great. There are various projects and websites on the i
 * [The Companion App](https://www.thecompanion.app/stargate/) :uk:
 
 ## Youtube Channels
+* [Dial the Gate](https://www.youtube.com/@DialtheGate) :uk:
 * [Gateworld](https://www.youtube.com/@GateWorldDotNet) :uk:
 * [Stargate Command](https://www.youtube.com/user/StargateCentral) :uk:
 
