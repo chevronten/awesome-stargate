@@ -27,6 +27,7 @@ The Stargate Universe is great. There are various projects and websites on the i
 
 ## Websites
 * [Gateworld](https://gateworld.net) :uk:
+* [Mama Nox Presents](https://mamanoxpresents.com/) :uk:
 * [Stargate Planet](https://www.stargate-planet.de/) :de:
 * [Stargate Project](https://www.stargate-project.de/) :de:
 * [The Companion App](https://www.thecompanion.app/stargate/) :uk:
