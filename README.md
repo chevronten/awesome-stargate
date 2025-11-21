@@ -10,7 +10,10 @@ The Stargate Universe is great. There are various projects and websites on the i
 ## Official Sites
 * [David Hewlett](https://canerdian.com) :uk:
 * [Michael Shanks](https://michaelshanksonline.com/) :uk:
-  
+
+## Blogs
+* [Joseph Mallozzi](https://josephmallozzi.com) :uk:
+
 ## Podcasts
 * [Chevron 10](https://chevron10.de) :de:
 * [Dial the Gate](https://www.dialthegate.com/) :uk:
@@ -21,6 +24,14 @@ The Stargate Universe is great. There are various projects and websites on the i
 * [Walking through the Stargate](https://podcasts.apple.com/de/podcast/walking-through-the-stargate/id1428147399) :uk:
 * [Windows of Opportunity](https://windowofopportunity.libsyn.com/website) :uk:
 * [Wormhole Waffles](https://wormhole-waffles.captivate.fm/) :uk:
+
+## Social Media
+
+### Stargate Atlantis
+* [Joe Flanigan](https://www.instagram.com/joeflaniganofficial)
+  
+### Stargate Universe
+* [David Blue](https://bsky.app/profile/davidblue.bsky.social)
 
 ## Wiki
 * [Stargate Wiki](https://stargate.fandom.com) :uk:
