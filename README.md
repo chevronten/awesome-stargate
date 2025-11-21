@@ -1,11 +1,15 @@
 # Awesome Stargate
 The Stargate Universe is great. There are various projects and websites on the internet that celebrate this. Here is a partial collection of them. Pull requests are welcome.
 
-
 ## Fansites
 * [Amanda Tapping Fans](https://www.amandatappingfans.net/) :uk:
+* [Gateworld](https://gateworld.net) :uk:
+* [Mama Nox Presents](https://mamanoxpresents.com/) :uk:
 * [Richard Dean Anderson Website](https://rdanderson.com/index.htm) :uk:
 * [Selmak.org](https://selmak.org) :uk:
+* [Stargate Planet](https://www.stargate-planet.de/) :de:
+* [Stargate Project](https://www.stargate-project.de/) :de:
+* [The Companion App](https://www.thecompanion.app/stargate/) :uk:
 
 ## Official Sites
 * [David Hewlett](https://canerdian.com) :uk:
@@ -36,13 +40,6 @@ The Stargate Universe is great. There are various projects and websites on the i
 ## Wiki
 * [Stargate Wiki](https://stargate.fandom.com) :uk:
 * [Stargate Wiki](https://stargate-wiki.de) :de:
-
-## Websites
-* [Gateworld](https://gateworld.net) :uk:
-* [Mama Nox Presents](https://mamanoxpresents.com/) :uk:
-* [Stargate Planet](https://www.stargate-planet.de/) :de:
-* [Stargate Project](https://www.stargate-project.de/) :de:
-* [The Companion App](https://www.thecompanion.app/stargate/) :uk:
 
 ## Youtube Channels
 * [Dial the Gate](https://www.youtube.com/@DialtheGate) :uk:
