@@ -8,6 +8,7 @@ The Stargate Universe is great. There are various projects and websites on the i
 * [Selmak.org](https://selmak.org) :uk:
 
 ## Official Sites
+* [David Hewlett](https://canerdian.com) :uk:
 * [Michael Shanks](https://michaelshanksonline.com/) :uk:
   
 ## Podcasts
