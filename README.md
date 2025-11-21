@@ -30,13 +30,9 @@ The Stargate Universe is great. There are various projects and websites on the i
 * [Wormhole Waffles](https://wormhole-waffles.captivate.fm/) :uk:
 
 ## Social Media
-
-### Stargate Atlantis
+* [David Blue](https://bsky.app/profile/davidblue.bsky.social)
 * [Joe Flanigan](https://www.instagram.com/joeflaniganofficial)
   
-### Stargate Universe
-* [David Blue](https://bsky.app/profile/davidblue.bsky.social)
-
 ## Wiki
 * [Stargate Wiki](https://stargate.fandom.com) :uk:
 * [Stargate Wiki](https://stargate-wiki.de) :de:
