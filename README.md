@@ -4,7 +4,7 @@ The Stargate Universe is great. There are various projects and websites on the i
 ## Save Stargate
 Amazon has halted production of Martin Gero's Stargate series—before it even began! The gate can only be reopened if Amazon sees massive fan support from us—loud but respectful!
 Help us! You can find tips on what to do at [SaveStargate.com](https://www.savestargate.com) :uk: :de: :fr:
-For example, sign the petition at [Change.org]([https://www.change.org/p/save-stargate-with-martin-gero]
+For example, sign the petition at [Change.org]([https://www.change.org/p/save-stargate-with-martin-gero) :uk:
 
 #SaveStargate
 
