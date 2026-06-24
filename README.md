@@ -6,6 +6,7 @@ Amazon has halted production of Martin Gero's Stargate series—before it even b
 Help us! 
 
 You can find tips on what to do at [SaveStargate.com](https://www.savestargate.com) :uk: :de: :fr:
+
 For example, sign the petition at [Change.org](https://www.change.org/p/save-stargate-with-martin-gero) :uk:
 
 #SaveStargate
